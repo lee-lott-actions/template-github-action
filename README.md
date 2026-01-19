@@ -17,8 +17,8 @@ Description of what the GitHub Action does.
 ## Outputs
 | Name           | Description                                                   |
 |----------------|---------------------------------------------------------------|
-| `result`       | Result of the issue closure attempt ("success" or "failure"). |
-| `error-message`| Error message if the issue closure fails.                     |
+| `result`       | Result of the action ("success" or "failure").                |
+| `error-message`| Error message if the action fails.                            |
 
 ## Usage
 1. **Add the Action to Your Workflow**:
